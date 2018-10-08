@@ -63,6 +63,7 @@ var goSubRepos = []string {
 	"talks",
 	"text",
 	"tools",
+	"lint",
 }
 
 func handleGoSubRepos() {
